@@ -1,0 +1,13 @@
+22/12/2018, 1:45 am - Guy1: Lorem Ipsum is simply dummy text of the printing
+22/12/2018, 8:51 pm - Guy2: Lorem Ipsum is simply dummy text of the printing 
+22/12/2018, 8:54 pm - Guy1: The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using.
+22/12/2018, 8:54 pm - Guy2: Contrary to popular belief
+22/12/2018, 8:54 pm - Guy2: here are many variations of pass
+22/12/2018, 8:55 pm - Guy1: If you are going to use a passage of Lorem Ipsum
+19/02/2019, 11:28 pm - Guy2: https://somedomain.com // LINK NUMBER 1
+26/01/2019, 12:38 am - Guy1: IMG-20190126-WA0001.jpg (file attached) // FILE NUMBER 1
+26/01/2019, 11:42 am - Guy1: https://youtu.be/somevideo // LINK NUMBER 2 
+04/02/2019, 10:09 pm - Guy1: <Media omitted> // FILE NUMBER  2
+05/03/2019, 12:16 am - Guy2: Ok. It's a pleasure.
+05/03/2019, 12:20 am - Guy2: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+27/01/2019, 9:25 pm - Guy1: Thank you!
