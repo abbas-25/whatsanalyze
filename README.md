@@ -19,7 +19,7 @@ Additionally, you need *matplotlib* and *urlextract* python libraries installed.
 1. Open WhatsApp on mobile
 2. Open the chat you want to analyze
 3. Click on the three dots menu on top right
-4. Select *More* > *Export Chat* (Choose *Include Media* for more statistics)
+4. Select *More* > *Export Chat* (Choose *Without Media* for more statistics)
 5. Move this _txt_ file to your PC
 
 ### Running the Script
